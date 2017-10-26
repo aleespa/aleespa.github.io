@@ -18,6 +18,7 @@
     <button class="w3-bar-item w3-button tablink w3-red" onclick="openCity(event,'London')">Productos</button>
     <button class="w3-bar-item w3-button tablink" onclick="openCity(event,'Paris')">Histogramas</button>
     <button class="w3-bar-item w3-button tablink" onclick="openCity(event,'Tokyo')">Mapas</button>
+    <button class="w3-bar-item w3-button tablink" onclick="openCity(event,'Temporales')">Temporales</button>
   </div>
   
   <div id="London" class="w3-container w3-border city">
@@ -73,11 +74,18 @@
   
 <p style="text-align: center;" align="left"><span style="font-family: 'Liberation Serif', serif; color: #333333; font-size: medium;"><font face="Roboto"><em> Éste índice clasifica los rechazos respecto a las transacciones realizadas por nuestros clientes en cada uno de <br /> 
                                                                                                                                                               los estados de la República Mexicana. Tenemos posibles situaciones de rechazo, desplegadas de la siguiente forma: Fallo en <br /> 
-                                                                                                                                                              Terminal, Robo/Extravío/Clonación de Tarjeta, Sobregiro de Tarjeta (TDC), Insuficiencia de fondos (TDD),<br /> 
+                                                                                                                                                          Terminal, Robo/Extravío/Clonación de Tarjeta, Sobregiro de Tarjeta (TDC), Insuficiencia de fondos (TDD),<br /> 
                                                                                                                                                                Fallo en firma electrónica (si cuenta con ésta), plástico Dañado, Robo de Identidad, etc. </em></span></p>  
 
   </div>
+    
+    
+<div id="Temporales" class="w3-container w3-border city" style="display:none">  
+   <h2><font face="Roboto"> Indices temporales</h2>
+    </div>
 </div>
+   
+
 
 <script>
 function openCity(evt, cityName) {
