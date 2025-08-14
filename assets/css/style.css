@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,100..900;1,100..900&family=Parkinsans:wght@300..800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Text:ital@0;1&family=Noto+Serif:ital,wght@0,100..900;1,100..900&family=Parkinsans:wght@300..800&display=swap');
+
+/* Change body font */
+body {
+  font-family: 'Noto', serif;
+  font-size: 20px; /* base font size */
+  color: #3b3b3b; /* base text color */
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "DM Serif Text", serif;
+  color: #3b3b3b; /* base text color */
+}
+
+.site-title {
+    font-family: "DM Serif Text", serif;
+    font-size: 36px; /* base font size */
+}
+
+.archive__item-title {
+    font-family: "DM Serif Text", serif;
+}
+
+.archive__subtitle {
+    font-family: "DM Serif Text", serif;
+}
+
+a {
+    color: #000000b9;
+}
+
+a:visited {
+    color: #414141b9;
+}
+a:hover {
+    color: #005780b9;
+}
+.sidebar .author__name{
+    
+    font-family: "DM Serif Text", serif;
+}
+
+.greedy-nav a:visited {
+    color: #6e0e0e;
+}
+
+.greedy-nav a {
+    color: #611414;
+}
+
+.masthead__inner-wrap {
+    
+    font-family: "DM Serif Text", serif;
+}
+
+.sidebar {
+    opacity: 1;
+ }
+
+ .author__avatar img {
+    max-width: 110px;
+    border-radius: 100%;
+}

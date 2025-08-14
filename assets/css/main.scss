@@ -1,0 +1,13 @@
+---
+# Only the triple-dash front matter tells Jekyll to process this file
+---
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main Minimal Mistakes styles
+
+// Your overrides
+.page {
+  width: 95%;
+  max-width: 1600px;
+  color: #333;
+}
