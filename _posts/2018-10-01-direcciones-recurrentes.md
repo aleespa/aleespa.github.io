@@ -7,9 +7,13 @@ author_profile: false
 
 Una caminata aleatoria se define como un proceso estocástico en tiempo discreto que evoluciona en función de saltos aleatorios idénticamente distribuidos. Es muy intuitivo pensar en una caminata aleatoria, pues se puede pensar que lo que modelamos es la posición de una partícula al momento $$n$$, como estamos hablando de modelo aleatoria nuestro interés es saber como evoluciona la posición de la particular y en que áreas de nuestro espacio será mas probable encontrarla.
 
-Más específicamente una caminata aleatoria en $$\mathbb{R}^d$$ en tiempo discreto es un proceso estocástico dado por $$$$S_n=\sum_{i=1}^{n}\xi_i$$$$ donde $$(\xi_i)_{i\in\mathbb{N}}$$ son v.a.i.i.d. , este proceso resulta ser el más simple de todos los proceso de Markov, pues precisamente el proceso avanza un paso a la vez, dependiendo su siguiente posición solo de donde ha llegado.
+Más específicamente una caminata aleatoria en $$\mathbb{R}^d$$ en tiempo discreto es un proceso estocástico dado por 
 
-Nuestro proceso empieza en $$S_0= 0$$, una de las preguntas más interesantes sobre las caminatas es la cantidad de veces que regresará a el origen. Decimos que $$x\in\mathbb{R}^d$$ es un valor <b>recurrente </b>si para cualquier $$\varepsilon\gt0$$, $$\mathbb{P}(\|S_n-x\|\lt;\varepsilon\text{ i.o.})=1$$ es decir que $$S_n$$ visita cualquier vecindad de $$x$$ una infinidad de veces con probabilidad. El siguiente teorema prueba que el conjunto de valores recurrentes o es el vació o un subgrupo de $$\mathbb{R}$$</div>
+$$S_n=\sum_{i=1}^{n}\xi_i$$ 
+
+donde $$(\xi_i)_{i\in\mathbb{N}}$$ son v.a.i.i.d. , este proceso resulta ser el más simple de todos los proceso de Markov, pues precisamente el proceso avanza un paso a la vez, dependiendo su siguiente posición solo de donde ha llegado.
+
+Nuestro proceso empieza en $$S_0= 0$$, una de las preguntas más interesantes sobre las caminatas es la cantidad de veces que regresará a el origen. Decimos que $$x\in\mathbb{R}^d$$ es un valor <b>recurrente </b>si para cualquier $$\varepsilon\gt0$$, $$\mathbb{P}(\|S_n-x\|\lt;\varepsilon\text{ i.o.})=1$$ es decir que $$S_n$$ visita cualquier vecindad de $$x$$ una infinidad de veces con probabilidad. El siguiente teorema prueba que el conjunto de valores recurrentes o es el vació o un subgrupo de $$\mathbb{R}$$
 
 ### Teorema 1
 El conjunto $$\mathcal{V}$$ de valores recurrentes es $$\emptyset$$ o un subgrupo cerrado de $$\mathbb{R}^d$$
