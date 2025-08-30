@@ -3,6 +3,10 @@ title: "Direcciones asintóticamente recurrentes de caminatas aleatorias"
 permalink: /direcciones-recurrentes/
 layout: single
 author_profile: false
+categories:
+  - Probability
+tags:
+  - Spanish
 ---
 
 Una caminata aleatoria se define como un proceso estocástico en tiempo discreto que evoluciona en función de saltos aleatorios idénticamente distribuidos. Es muy intuitivo pensar en una caminata aleatoria, pues se puede pensar que lo que modelamos es la posición de una partícula al momento $$n$$, como estamos hablando de modelo aleatoria nuestro interés es saber como evoluciona la posición de la particular y en que áreas de nuestro espacio será mas probable encontrarla.

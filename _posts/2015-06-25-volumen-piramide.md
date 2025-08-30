@@ -3,6 +3,10 @@ title: "Volumen de Pirámide Hexagonal"
 permalink: /volumen-piramide/
 layout: single
 author_profile: false
+categories:
+  - Calculus
+tags:
+  - Spanish
 ---
 
 Hallar el volumen de la pirámide hexagonal en función de la altura y del área de la base.

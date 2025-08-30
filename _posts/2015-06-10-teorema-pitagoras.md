@@ -3,6 +3,10 @@ title: "Teorema de Pitágoras"
 permalink: /teorema-pitagoras/
 layout: single
 author_profile: false
+categories:
+  - Calculus
+tags:
+  - Spanish
 ---
 
 El teorema de Pitágoras es uno de los mas importantes en diversas áreas de estudio de las matemáticas, normalmente es conocido desde los cursos mas básicos de matemáticas con demostraciones intuitivas, se tiene diversas formas de demostrarlo usando varias herramientas, en esta ocasión haré uso de las definiciones de distancia y ortogonalidad de la geometria analitica.

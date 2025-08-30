@@ -3,6 +3,10 @@ title: "Número de Euler"
 permalink: /numero-euler/
 layout: single
 author_profile: false
+categories:
+  - Calculus
+tags:
+  - Spanish
 ---
 
 El numero de Euler puede ser definido de varias maneras según la rama de las matemáticas en la que se este estudiando, lo podemos ver como el limite de una sucesión. Al final todos valen lo mismo, se esta hablando del mismo numero, en esta ocasión me gustaría demostrar a partir de una definición distinta el limite de esta sucesión:

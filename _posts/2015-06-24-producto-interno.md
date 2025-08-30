@@ -3,6 +3,10 @@ title: "Producto Interno"
 permalink: /producto-interno/
 layout: single
 author_profile: false
+categories:
+  - Calculus
+tags:
+  - Spanish
 ---
 
 El producto interno en un espacio lineal se puede definir de varias maneras, siempre y cuando se tengan las características de la definición el mas conocido puede ser el producto punto en que simplemente estaba definido como la suma de cada producto de valores.

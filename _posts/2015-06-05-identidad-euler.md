@@ -3,6 +3,10 @@ title: "Identidad de Euler"
 permalink: /identidad-euler/
 layout: single
 author_profile: false
+categories:
+  - Calculus
+tags:
+  - Spanish
 ---
 
 En esta publicación daré una demostración muy simple de la identidad de Euler

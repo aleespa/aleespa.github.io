@@ -3,6 +3,10 @@ title: "Seno y Coseno de Suma de Ángulos "
 permalink: /seno-coseno/
 layout: single
 author_profile: false
+categories:
+  - Calculus
+tags:
+  - Spanish
 ---
 
 Las funciones seno y coseno las podemos expandir a ser una función con dominio complejo gracias a las series de funciones complejas en el que encontramos igualdades que son interesantes y podemos deducir resultados aun mas interesantes, ahora veremos que las propiedades básicas de ambas funciones se cumplen también para complejos. Veamos que:

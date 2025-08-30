@@ -3,6 +3,10 @@ title: "Regla de la Cadena en Campos Escalares"
 permalink: /regla-cadena/
 layout: single
 author_profile: false
+categories:
+  - Calculus
+tags:
+  - Spanish
 ---
 
 La regla de la cadena es de mucha utilidad en funciones de una dimensión, y tiene gran importación, puede ser extendida a campos escalares.
