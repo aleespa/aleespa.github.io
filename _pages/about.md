@@ -2,7 +2,12 @@
 permalink: /about/
 title: "About"
 ---
+Welcome to my blog! I'm Alejandro, and I created this space to share my journey through the world of mathematics, 
+probability, and statistics. These posts are a collection of my notes and explorations from my time as an undergraduate
+student studying Actuarial Sciences. Most of my posts are written in Spanish, but I also have a few posts in English.
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+While my professional work has since taken me into the world of quantitative finance, the foundational concepts I 
+explored here continue to be the backbone of my work. This blog is a personal archive of that early passion for 
+mathematical problem-solving and an informal look at the topics that laid the groundwork for my career.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+Feel free to browse the posts and dive into the math with me.
